@@ -4,7 +4,6 @@ author: "Aisha Abdelhamid"
 date: "9/25/2020"
 output: html_document
 ---
-Github repo with Rmd (and knitted html) which discusses pros and cons two projects from past years. At least one project should be one which did extensive data gathering/cleaning. You should not select the same projects for commentary as your friends have. Students generally write about a paragraph for each project. The Rmd/html file should include the url for your repo. The only thing you are submitting is the html, via Canvas.
 
 [Link to markdown cheatsheet](https://github.com/aishaabdelhamid/milestone_2)
 
