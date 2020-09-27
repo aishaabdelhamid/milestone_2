@@ -1,0 +1,28 @@
+---
+title: "Milestone #2"
+author: "Aisha Abdelhamid"
+date: "9/25/2020"
+output: html_document
+---
+Github repo with Rmd (and knitted html) which discusses pros and cons two projects from past years. At least one project should be one which did extensive data gathering/cleaning. You should not select the same projects for commentary as your friends have. Students generally write about a paragraph for each project. The Rmd/html file should include the url for your repo. The only thing you are submitting is the html, via Canvas.
+
+## State of the Union Text Analysis by Will Schrepferman
+
+Screpferman's project seems to do a great deal of text analysis and data 
+collection. One thing that I would improve about his project is the data
+visualization of the topic models. Without the description, it is a bit
+unclear what the topics are about. Also, for the models divided by presidents
+it would've been nicer to have the visualization in descending order of the
+term with the highest frequency to term with the lowest frequency. A positive
+of his project is that it seems incredibly unique, especially the part about
+RoBama. Another con of his project is the repetition of many of the same
+commands with different arguments. As I have been told, there is probably an
+easier way to get the same result.
+
+[Link to markdown cheatsheet](https://github.com/willschrepf/state_of_the_union_data)
+
+## Fatalities in Yemen's Civil War
+
+It was 
+
+
